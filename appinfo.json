@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Blairhadfield",
+    "longName": "BHSCInc",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/no_litter_crop.png",
+                "name": "IMAGE_NO_LITTER",
+                "type": "png"
+            },
+            {
+                "file": "images/BHLOGO.Pebble..png",
+                "name": "IMG_BHLOGO",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "BHSCInc",
+    "uuid": "1a13a538-3c3c-4f5d-8b16-18b640919396",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
