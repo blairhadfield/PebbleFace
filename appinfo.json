@@ -9,6 +9,12 @@
     "resources": {
         "media": [
             {
+                "file": "images/Monogram.png",
+                "menuIcon": true,
+                "name": "installer_logo",
+                "type": "png"
+            },
+            {
                 "file": "images/no_litter_crop.png",
                 "name": "IMAGE_NO_LITTER",
                 "type": "png"
